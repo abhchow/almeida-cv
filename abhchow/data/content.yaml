@@ -1,187 +1,185 @@
-#& cd "C:\Users\abhch\Desktop\github\almeida-cv\abhchow
+#& cd "C:\Users\abhch\Desktop\github\almeida-cv\abhchow"
 #hugo server -D
 
 BasicInfo:
-  FirstName: Albert
-  LastName: Chow
-  # Photo: img/MMS_picture.jpg
-  Contacts:
-    - Icon: fas fa-phone
-      Info: 0468 841 302
-    - Icon: fas fa-envelope
-      Info: abhchow@gmail.com
-    - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://www.linkedin.com/in/abhchow/" target="_blank">linkedin.com/in/abhchow</a>
-    - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
-      
+    FirstName: Albert
+    LastName: Chow
+    # Photo: img/MMS_picture.jpg
+    Contacts:
+        - Icon: fas fa-phone
+          Info: 0468 841 302
+        - Icon: fas fa-envelope
+          Info: abhchow@gmail.com
+        - Icon: fas fa-globe
+          Info: <a class="contact__link" href="https://www.linkedin.com/in/abhchow/" target="_blank">linkedin.com/in/abhchow</a>
+        - Icon: fas fa-map-marker-alt
+          Info: Melbourne, Australia
+
 # Profile: As a student with a passion for learning and innovation, Albert is always keen to work with diverse people and projects to broaden his experiences. He draws on a wide range of knowledge to demonstrate a strong understanding of integrated multi-disciplinary systems, and loves teaching people and collaborating with them to help develop creative solutions and build each other's understanding.
 
 # Profile: My passion for education and innovation drives me to work with diverse people and projects to help them achieve their full potential. I draw on a wide range of knowledge to demonstrate a strong understanding of integrated multi-disciplinary systems. My enthusiasm for teaching complements my constant drive to learn, and I'm always ready to collaborate with others to develop creative solutions.
 
 Profile: My passion for innovation and technology drives me to put myself in situations where I have to learn new things. Whether that's a new language, framework or hardware, or learning to work in new environments with different people and projects, I'm always up for a new challenge. I have a keen interest in both mathematics and programming, and love opportunities to use them to build practical software.
 Experience:
-  - Employer: Monash University
-    Place: Melbourne, Australia
-    Positions:
-      - Title: Teaching Associate - Faculty of Engineering
-        Date: July 2021 - Present
-        Details:
-          - >
-            Demonstrator for Engineering Numerical Analysis (ENG1014), Computing for Engineers (ENG1060), and Engineering Design: Cleaner, Safer, Smarter (ENG1002)
-          - Programming in Matlab, numerical methods, dynamics, circuit analysis and project design
-          - Supporting students in completing labs on programming and numerical methods problems
-          - Marking code, conducting programming interviews for individual assignments
-          - Presenting worked examples to large groups of students in lectures
-          - Developing content for a new unit in the form of notes and videos
-          - Managing and marking students' group projects designing wastewater treatment plants and LED lamps
-          # - Managing group projects in Chemical and Electrical Engineering (ENG1002)
-          # - Matlab; vector and matrix operations, control structures, functions (ENG1060/1014)
-          # - Dynamics; kinematics, kinetics, energy methods, momentum (ENG1014)
-          # - Numerical methods; root finding, curve fitting, optimisation, integration, ODEs, linear algebra (ENG1060/1014)
-          # - Managing teams of students over group projects designing wastewater treatment plants and LED lamps
-          # - Programming fundamentals and numerical solutions; linear algebra, root finding, curve fitting, differentiation, optimisation, integration, ODEs
-          # - Material balance, unit operations, semiconductor theory, Kirchoff's Laws, circuit analysis
-        Badges: ['Matlab', 'Mechanical Engineering', 'Electrical Engineering', 'Mathematics', 'Teaching']
-      - Title: Teaching Associate - Faculty of Information Technology
-        Date: July 2021 - Present
-        Details:
-          - Tutor for Algorithms and Programming Fundamentals in Python (FIT1045) and Introduction to Computer Science/Advanced/for Engineers (FIT1008/1054/2085)
-          # - Programming in Python #; variables, control structures, functions, scoping, namespaces, modules/libraries, OOP, mutability, iterators, nested functions
-          # - Algorithms and data structures #; recursion, ADTs, hash tables, tree structures
-          # - MIPS assembly #; loops, arrays and functions
-          - Programming in Python, algorithms, data structures, MIPS assembly
-          - Assisting classes of 10-50 students in completing programming tasks
-          - Presenting and explaining the theory of different algorithms and data structures, and their applications and implementation details
-          - Conducting programming interviews for both individual and group assignments
-        Badges: ['Python', 'MIPS', 'Programming', 'Algorithms', 'Computer Science', 'Teaching']
-      - Title: Summer Research Intern
-        Date: Nov 2021 - Feb 2022
-        Details:
-          - Research Project with the Department of Electrical and Computer Systems Engineering
-          - Programming a robotic arm in Python/ROS to build a domino line collaboratively with humans
-          - Studying development of trust and trust repair in collaborative tasks
-          # - Running experiments with participants and analysing experimental data
-        Badges: ['Python', 'ROS', 'Robotics', 'Research', 'Psychology']
+    - Employer: Monash University
+      Place: Melbourne, Australia
+      Positions:
+          - Title: Teaching Associate - Faculty of Engineering
+            Date: July 2021 - Present
+            Details:
+                - >
+                    Demonstrator for Engineering Numerical Analysis (ENG1014), Computing for Engineers (ENG1060), and Engineering Design: Cleaner, Safer, Smarter (ENG1002)
+                - Programming in Matlab, numerical methods, dynamics, circuit analysis and project design
+                - Supporting students in completing labs on programming and numerical methods problems
+                - Marking code, conducting programming interviews for individual assignments
+                - Presenting worked examples to large groups of students in lectures
+                - Developing content for a new unit in the form of notes and videos
+                - Managing and marking students' group projects designing wastewater treatment plants and LED lamps
+                # - Managing group projects in Chemical and Electrical Engineering (ENG1002)
+                # - Matlab; vector and matrix operations, control structures, functions (ENG1060/1014)
+                # - Dynamics; kinematics, kinetics, energy methods, momentum (ENG1014)
+                # - Numerical methods; root finding, curve fitting, optimisation, integration, ODEs, linear algebra (ENG1060/1014)
+                # - Managing teams of students over group projects designing wastewater treatment plants and LED lamps
+                # - Programming fundamentals and numerical solutions; linear algebra, root finding, curve fitting, differentiation, optimisation, integration, ODEs
+                # - Material balance, unit operations, semiconductor theory, Kirchoff's Laws, circuit analysis
+            Badges: ["Matlab", "Mechanical Engineering", "Electrical Engineering", "Mathematics", "Teaching"]
+          - Title: Teaching Associate - Faculty of Information Technology
+            Date: July 2021 - Present
+            Details:
+                - Tutor for Algorithms and Programming Fundamentals in Python (FIT1045) and Introduction to Computer Science/Advanced/for Engineers (FIT1008/1054/2085)
+                # - Programming in Python #; variables, control structures, functions, scoping, namespaces, modules/libraries, OOP, mutability, iterators, nested functions
+                # - Algorithms and data structures #; recursion, ADTs, hash tables, tree structures
+                # - MIPS assembly #; loops, arrays and functions
+                - Programming in Python, algorithms, data structures, MIPS assembly
+                - Assisting classes of 10-50 students in completing programming tasks
+                - Presenting and explaining the theory of different algorithms and data structures, and their applications and implementation details
+                - Conducting programming interviews for both individual and group assignments
+            Badges: ["Python", "MIPS", "Programming", "Algorithms", "Computer Science", "Teaching"]
+          - Title: Summer Research Intern
+            Date: Nov 2021 - Feb 2022
+            Details:
+                - Research Project with the Department of Electrical and Computer Systems Engineering
+                - Programming a robotic arm in Python/ROS to build a domino line collaboratively with humans
+                - Studying development of trust and trust repair between humans and robots in collaborative tasks
+                # - Running experiments with participants and analysing experimental data
+            Badges: ["Python", "ROS", "Robotics", "Research", "Psychology"]
 
-  - Employer: Private Tutoring
-    Place: Melbourne, Australia
-    Positions:
-      - Title: High School Mathematics Tutor
-        Date: 2019 - 2022
-        Details:
-          - Teaching mathematics from Year 9 through to VCE Specialist Mathematics
-          - Structuring content focussed developing intuition, understanding and practical applications
-          - Managing a small business; maintaining professional image, communications and standards
-        Badges: ['Mathematics', 'Teaching', 'Business Management']
+    - Employer: Private Tutoring
+      Place: Melbourne, Australia
+      Positions:
+          - Title: High School Mathematics Tutor
+            Date: 2019 - 2022
+            Details:
+                - Teaching mathematics from Year 9 through to VCE Specialist Mathematics
+                - Structuring content focussed developing intuition, understanding and practical applications
+                - Managing a small business; maintaining professional image, communications and standards
+            Badges: ["Mathematics", "Teaching", "Business Management"]
 
-        
-  - Employer: Monash Motorsport
-    Place: Monash University
-    Positions:
-      - Title: Electrical Systems Engineer
-        Date: Apr 2020 - Jul 2021
-        Details:
-          - Development of an autonomous electric racing vehicle for Formula Student Competitions
-          - Designing, manufacturing and testing a high voltage distribution system to deliver power throughout the car
-          - Testing, calibrating and tuning an inverter to control a permanent magnet synchronous motor
-          - Working in a team of over 100 people; co-ordinating work with other part designers and ensuring smooth integration with other parts
-        Badges: ['Electrical Engineering', 'Automotives', 'Manufacturing', 'Siemens NX', 'Teamwork & Integration']
-      - Title: Senior Advisor
-        Date: Mar 2021 - Jun 2021
-        Details:
-          - Advisor to new recruits; organising and running activities for the recruits
-          - Teaching various skills, ranging from hands on manufacturing skills to Solidworks to electrical theory
-          - Managing and marking Junior Projects for the recruits' design subject as part of their university course 
-        Badges: ['Teaching', 'Electrical Engineering', 'Solidworks']
+    - Employer: Monash Motorsport
+      Place: Monash University
+      Positions:
+          - Title: Electrical Systems Engineer
+            Date: Apr 2020 - Jul 2021
+            Details:
+                - Development of an autonomous electric racing vehicle for Formula Student Competitions
+                - Designing, manufacturing and testing a high voltage distribution system to deliver power throughout the car
+                - Testing, calibrating and tuning an inverter to control a permanent magnet synchronous motor
+                - Working in a team of over 100 people; co-ordinating work with other part designers and ensuring smooth integration with other parts
+            Badges: ["Electrical Engineering", "Automotives", "Manufacturing", "Siemens NX", "Teamwork & Integration"]
+          - Title: Senior Advisor
+            Date: Mar 2021 - Jun 2021
+            Details:
+                - Advisor to new recruits; organising and running activities for the recruits
+                - Teaching various skills, ranging from hands on manufacturing skills to Solidworks to electrical theory
+                - Managing and marking Junior Projects for the recruits' design subject as part of their university course
+            Badges: ["Teaching", "Electrical Engineering", "Solidworks"]
 
+    # - Employer: Project Everest Ventures
+    #   Place: Dili, Timor-Leste
+    #   Positions:
+    #     - Title: Trekker/Intern
+    #       Date: July 2019
+    #       Details:
+    #         - Performed market research and analysis for a humanitarian project in a multi-disciplinary team for one month
+    #         - Focussed on distributing and advertising a portable oven, with a focus on promoting its health benefits due to the lack of smoke produced compared to open-fire cooking
+    #         - Developed strong interpersonal skills from working with new colleagues and with locals who spoke an unfamiliar language
+    #       Badges: ['Market Research', 'Humanitarian', 'Business', 'Interpersonal Skills']
 
-  # - Employer: Project Everest Ventures
-  #   Place: Dili, Timor-Leste
-  #   Positions:
-  #     - Title: Trekker/Intern
-  #       Date: July 2019
-  #       Details:
-  #         - Performed market research and analysis for a humanitarian project in a multi-disciplinary team for one month
-  #         - Focussed on distributing and advertising a portable oven, with a focus on promoting its health benefits due to the lack of smoke produced compared to open-fire cooking
-  #         - Developed strong interpersonal skills from working with new colleagues and with locals who spoke an unfamiliar language
-  #       Badges: ['Market Research', 'Humanitarian', 'Business', 'Interpersonal Skills']
+    # - Employer: Centre for Astrophysics and Supercomputing
+    #   Place: Swinburne University
+    #   Positions:
+    #     - Title: Work Experience Intern
+    #       Date: June 2015
+    #       Details:
+    #         - Assisted the supervisor in conducting a meta-analysis of visual data in astrophysical papers with a team of 4 students
+    #         - Analysed basic data about quasars and contextualised them with understanding of phenomena such as gravitational lensing
+    #       Badges: ['Astrophysics', 'Data Analysis', 'Data Visualisation']
 
-  # - Employer: Centre for Astrophysics and Supercomputing
-  #   Place: Swinburne University
-  #   Positions:
-  #     - Title: Work Experience Intern
-  #       Date: June 2015
-  #       Details: 
-  #         - Assisted the supervisor in conducting a meta-analysis of visual data in astrophysical papers with a team of 4 students
-  #         - Analysed basic data about quasars and contextualised them with understanding of phenomena such as gravitational lensing
-  #       Badges: ['Astrophysics', 'Data Analysis', 'Data Visualisation']
+    # - Employer: Drums of War
+    #   Place: Melbourne, Australia
+    #   Positions:
+    #     - Title: Bass Singer & Graphic Designer
+    #       Date: 2018 - 2020
+    #       Details:
+    #         - Regular gigging and rehearsing a large repertoire as part of a professional a cappella band
+    #         - Designed graphics for advertising and social media
+    #         - Management of the band to keep on track as both a business and a creative project
+    #       Badges: ['Music', 'Business Management', 'Adobe Suite', 'Graphic Design']
 
-  # - Employer: Drums of War
-  #   Place: Melbourne, Australia
-  #   Positions:
-  #     - Title: Bass Singer & Graphic Designer
-  #       Date: 2018 - 2020
-  #       Details:
-  #         - Regular gigging and rehearsing a large repertoire as part of a professional a cappella band
-  #         - Designed graphics for advertising and social media
-  #         - Management of the band to keep on track as both a business and a creative project
-  #       Badges: ['Music', 'Business Management', 'Adobe Suite', 'Graphic Design']
+    # - Employer: Skinpath Pathology
+    #   Place: Hawthorn, Vic, Aus
+    #   Positions:
+    #   - Title: Work Experience Intern
+    #     Date: June 2015
+    #     Details:
+    #       - Produced a set of histological microscope slides from animal samples by learning to use a wide range of laboratory equipment
+    #     Badges: ['Histology', 'Laboratory Skills']
 
-  # - Employer: Skinpath Pathology
-  #   Place: Hawthorn, Vic, Aus
-  #   Positions:
-  #   - Title: Work Experience Intern
-  #     Date: June 2015
-  #     Details:
-  #       - Produced a set of histological microscope slides from animal samples by learning to use a wide range of laboratory equipment
-  #     Badges: ['Histology', 'Laboratory Skills']
-
-  # - Employer: Spotlight Stores
-  #   Place: Box Hill, Vic, Aus
-  #   Positions:
-  #     - Title: Retail Team Member
-  #       Date: May 2018- April 2019
-  #       Details:
-  #         - Processing sales, assisting customers, cutting fabric and cleaning duties
-  #         - Learnt to develop, maintain and manage interpersonal relations with managers, colleagues and customers
-  #       Badges: ['Sales', 'Retail', 'Interpersonal Skills']
+    # - Employer: Spotlight Stores
+    #   Place: Box Hill, Vic, Aus
+    #   Positions:
+    #     - Title: Retail Team Member
+    #       Date: May 2018- April 2019
+    #       Details:
+    #         - Processing sales, assisting customers, cutting fabric and cleaning duties
+    #         - Learnt to develop, maintain and manage interpersonal relations with managers, colleagues and customers
+    #       Badges: ['Sales', 'Retail', 'Interpersonal Skills']
 
 Education:
-  - Course: Bachelor of Engineering (Hons.) and Bachelor of Science
-    Place: Monash University
-    Date: 2018 - 2024
-    Details:
-      Specialised in Mechatronics Engineering <br/>
-      Majors in Mathematics and Computational Science <br/>
-      <br/>
+    - Course: Bachelor of Engineering (Hons.) and Bachelor of Science
+      Place: Monash University
+      Date: 2018 - 2024
+      Details: Specialised in Mechatronics Engineering <br/>
+          Majors in Mathematics and Computational Science <br/>
+          <br/>
 
-  # - Course: Bachelor of Engineering (Honours)
-  #   Place: Monash University
-  #   Date: 2018 - 2024
-  #   Details:
-  #     Major in Mechatronics Engineering <br/>
-  #     <br/>
-  #     #Learning fundamentals in mechanical, electrical and computer systems and learning how to integrate them.  
+    # - Course: Bachelor of Engineering (Honours)
+    #   Place: Monash University
+    #   Date: 2018 - 2024
+    #   Details:
+    #     Major in Mechatronics Engineering <br/>
+    #     <br/>
+    #     #Learning fundamentals in mechanical, electrical and computer systems and learning how to integrate them.
 
-  # - Course: Bachelor of Science
-  #   Place: Monash University
-  #   Date: 2018 - 2022
-  #   Details:
-  #     Major in Computational Science <br/>
-  #     Major in Mathematics <br/>
-  #     <br/>
+    # - Course: Bachelor of Science
+    #   Place: Monash University
+    #   Date: 2018 - 2022
+    #   Details:
+    #     Major in Computational Science <br/>
+    #     Major in Mathematics <br/>
+    #     <br/>
 
-  - Course: Monash Industry Skills
-    Place: Chisholm Institute
-    Date: 2021
-    Details: A tailored course for Monash University teams to develop engineering workshop proficiencies. Content covered included various hand tools, drills, lathes, and milling machines.  <br/>
-      <br/>
+    - Course: Monash Industry Skills
+      Place: Chisholm Institute
+      Date: 2021
+      Details:
+          A tailored course for Monash University teams to develop engineering workshop proficiencies. Content covered included various hand tools, drills, lathes, and milling machines.  <br/>
+          <br/>
 
-  - Course: Certificate III in Laboratory Skills (MSL30109)
-    Place: Box Hill Institute
-    Date: 2015-2016
-    Details: Learnt how to work with various laboratory equipment including autoclaves, sample media and microscopes. A focus was placed on safety and practical skills for a laboratory technician.
+    - Course: Certificate III in Laboratory Skills (MSL30109)
+      Place: Box Hill Institute
+      Date: 2015-2016
+      Details: Learnt how to work with various laboratory equipment including autoclaves, sample media and microscopes. A focus was placed on safety and practical skills for a laboratory technician.
 
 # References:
 #   - Person: Kevin Lee
@@ -199,7 +197,7 @@ Education:
 #       Phone: 0466 098 334 <br/>
 #       Email: kelvin.chan@monashmotorsport.com <br/>
 #       <br/>
-      
+
 #   - Person: Laura Taylor
 #     Workplace: Project Everest Ventures
 #     Position: Senior Leader
@@ -207,7 +205,7 @@ Education:
 #       Phone: 0423 313 275 <br/>
 #       Email: laurataylor896@gmail.com <br/>
 #       <br/>
-      
+
 #   - Person: Jordy McMillan
 #     Workplace: Drums of War
 #     Position: Manager/Admin
@@ -215,42 +213,40 @@ Education:
 #       Phone: 0428 281 994 <br/>
 #       Email: jordy.mcmillan@gmail.com <br/>
 
-
-
 Skills:
-  - Family: Programming & Coding
-    Items:
-      - Python
-      - MATLAB
-      - C
-      - Javascript
-      - Typescript
-      - MIPS
-      - Mathematica
-      # - ROS
-      # - Haskell
-      # - HTML
-      # - CSS
-  - Family: Manufacturing & Engineering
-    Items:
-      - Machining
-      - 3D Printing
-      - Electronics
-  - Family: CAD & Design Software
-    Items:
-      - Solidworks
-      - Siemens NX
-      - Ultimaker Cura
-  - Family: Soft Skills
-    Items:
-      - Teaching
-      - Business Management
-      - Teamwork & Integration
-  - Family: Miscellaneous
-    Items: 
-      - Adobe Suite
-      - REAPER Audio
-      - OBS Studio
+    - Family: Programming & Coding
+      Items:
+          - Python
+          - MATLAB
+          - C
+          - Javascript
+          - Typescript
+          - MIPS
+          - Mathematica
+          # - ROS
+          # - Haskell
+          # - HTML
+          # - CSS
+    - Family: Manufacturing & Engineering
+      Items:
+          - Machining
+          - 3D Printing
+          - Electronics
+    - Family: CAD & Design Software
+      Items:
+          - Solidworks
+          - Siemens NX
+          - Ultimaker Cura
+    - Family: Soft Skills
+      Items:
+          - Teaching
+          - Business Management
+          - Teamwork & Integration
+    - Family: Miscellaneous
+      Items:
+          - Adobe Suite
+          - REAPER Audio
+          - OBS Studio
 
 # Languages:
 #   - Name: English
@@ -259,15 +255,14 @@ Skills:
 #     Level: Basic
 
 Certifications:
-  - Working With Children Check (2020)
-  - Level 2 First Aid and CPR (2019)
-  - Certified Solidworks Associate (CSWA) (2020)
-
+    - Working With Children Check (2020)
+    - Level 2 First Aid and CPR (2019)
+    - Certified Solidworks Associate (CSWA) (2020)
 
 Interests:
-  - Music
-  - Beatboxing
-  - Swimming
-  - Cycling
-  - Puzzles
-  - Electronics
+    - Beatboxing
+    - Swimming
+    - Electronics
+    - Music
+    - Cycling
+    - Puzzles
