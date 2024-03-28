@@ -26,6 +26,7 @@ Experience:
                 - Developed a Python service for the backend Analytics Platform that runs on Kubernetes
                 - Built a service to replicate metadata from Atlassian's internal datalake to a data streaming service for use in a data discovery service
                 - Produced documentation for the development and usage of the service
+                # - Achieved fluency in foundational software skills such as Git and CLI
             Badges: ["Python", "Kubernetes", "Software Development", "Teamwork & Integration"]
 
     - Employer: Monash University
@@ -34,17 +35,17 @@ Experience:
           - Title: Teaching Associate
             Date: July 2021 - Present
             Details:
-                - Tutoring subjects on Numerical Analysis, Engineering Design and Programming; Matlab, Python, MIPS, algorithms & data structures, numerical methods, dynamics, circuits and project design
-                - Teaching tutorials, labs, and lectures in class sizes up to 200, including presenting worked examples and assisting students programming, analysis and design tasks
-                - Conducting code interviews and marking reports for individual and group assignments
-                - Developing content for a new unit in the form of notes and videos
+                - Tutored subjects on numerical analysis, engineering design and programming; Matlab, Python, MIPS, algorithms, data structures, numerical methods, dynamics, circuits and project design
+                - Taught tutorials, labs, and lectures in class sizes up to 200, including presenting worked examples and assisting students programming, analysis and design tasks
+                - Conducted code interviews and marking reports for individual and group assignments
+                - Developed content for a new unit in the form of notes and videos
             Badges: ["Python", "Matlab", "MIPS", "Algorithms", "Engineering", "Mathematics", "Teaching"]
 
           - Title: Summer Research Intern
             Date: Nov 2021 - Feb 2022
             Details:
-                - Research Project with the Department of Electrical and Computer Systems Engineering
-                - Programming a robotic arm in Python/ROS to build a domino line with a human
+                # - Research Project with the Department of Electrical and Computer Systems Engineering
+                - Programmed a robotic arm in Python/ROS to collbaboratively build domino lines with a human
                 - Studying trust development and repair between humans and robots in collaborative tasks
                 # - Running experiments with participants and analysing experimental data
             Badges: ["Python", "ROS", "Robotics", "Research", "Psychology"]
@@ -56,8 +57,8 @@ Experience:
             Date: Apr 2020 - Jul 2021
             Details:
                 - Development of an autonomous electric racing vehicle for Formula Student Competitions
-                - Designing, manufacturing and testing a system to deliver high voltage power throughout the car; testing and calibrating an inverter to control a permanent magnet synchronous motor
-                - Working in a team of over 100 people; co-ordinating work with other part designers and ensuring smooth integration with other parts
+                - Designed, manufactured and tested a system to deliver high voltage power throughout the car; tested and calibrated an inverter to control a permanent magnet synchronous motor
+                - Worked in a team of over 100 people; co-ordinating work with other part designers and ensuring smooth integration with other parts
             Badges: ["Electrical Engineering", "Automotives", "Manufacturing", "Siemens NX", "Teamwork & Integration"]
           - Title: Senior Advisor
             Date: Mar 2021 - Jun 2021
@@ -225,9 +226,10 @@ Skills:
 #     Level: Basic
 
 Certifications:
-    - Working With Children Check (2020)
-    - Level 2 First Aid and CPR (2019)
-    - Certified Solidworks Associate (CSWA) (2020)
+    - • Monash Industry Skills | Chisholm Institute (2021)
+    - • Certified Solidworks Associate (CSWA) (2020)
+    - • Working With Children Check (2020)
+    - • Certificate III in Laboratory Skills (MSL30109) | Box Hill Institute (2015 - 2016)
 
 Interests:
     - Beatboxing
