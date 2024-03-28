@@ -19,7 +19,7 @@ BasicInfo:
 
 # Profile: My passion for education and innovation drives me to work with diverse people and projects to help them achieve their full potential. I draw on a wide range of knowledge to demonstrate a strong understanding of integrated multi-disciplinary systems. My enthusiasm for teaching complements my constant drive to learn, and I'm always ready to collaborate with others to develop creative solutions.
 
-Profile: My passion for innovation and technology drives me to seek out situations where I'm constantly learning. Whether that's a new language, framework or hardware, or learning to work in new environments with different people and projects, I'm always up for a new challenge. I have a keen interest in both programming and engineering, and love opportunities to use them to build practical systems.
+Profile: My passion for innovation and technology drives me to seek out situations where I'm constantly learning. Whether that's a new language, framework or hardware, or a new environment with different people and projects, I'm always up for a challenge. I have a keen interest in both programming and engineering, and love opportunities to use them to build practical systems.
 Experience:
     - Employer: Atlassian
       Place: Sydney, Australia
@@ -72,34 +72,35 @@ Experience:
           - Title: Teaching Associate
             Date: July 2021 - Present
             Details:
-                - >
-                    Tutor for Engineering Numerical Analysis (ENG1014), Computing for Engineers (ENG1060), Engineering Design: Cleaner, Safer, Smarter (ENG1002), Algorithms and Programming Fundamentals in Python (FIT1045) and Introduction to Computer Science (FIT1008)
-                - Programming in Matlab and Python, algorithms & data structures, MIPS assembly, numerical methods, dynamics, circuit analysis and project design
-                - Teaching tutorials, labs and lectures in class sizes from 10-200, including presenting worked examples and assisting students in programming, numerical analysis and project design
-                - Marking individual and group assignments, including conducting code interviews
+                # - >
+                #     Tutor for Engineering Numerical Analysis (ENG1014), Computing for Engineers (ENG1060), Engineering Design: Cleaner, Safer, Smarter (ENG1002), Algorithms and Programming Fundamentals in Python (FIT1045) and Introduction to Computer Science (FIT1008)
+                # - Tutor for subjects on Numerical Analysis, Engineering Design, Programming and Algorithms
+                # - Programming in Matlab and Python, algorithms & data structures, MIPS assembly, numerical methods, dynamics, circuit analysis and project design
+                - Tutoring subjects on Numerical Analysis, Engineering Design and Programming; Matlab, Python, MIPS, algorithms & data structures, numerical methods, dynamics, circuits and project design
+                - Teaching tutorials, labs, and lectures in class sizes up to 200, including presenting worked examples and assisting students programming, analysis and design tasks
+                - Conducting code interviews and marking reports for individual and group assignments
                 - Developing content for a new unit in the form of notes and videos
-                - Mentoring new Teaching Associates
             Badges: ["Python", "Matlab", "MIPS", "Algorithms", "Engineering", "Mathematics", "Teaching"]
 
           - Title: Summer Research Intern
             Date: Nov 2021 - Feb 2022
             Details:
                 - Research Project with the Department of Electrical and Computer Systems Engineering
-                - Programming a robotic arm in Python/ROS to build a domino line collaboratively with humans
-                - Studying development of trust and trust repair between humans and robots in collaborative tasks
+                - Programming a robotic arm in Python/ROS to build a domino line with a human
+                - Studying trust development and repair between humans and robots in collaborative tasks
                 # - Running experiments with participants and analysing experimental data
             Badges: ["Python", "ROS", "Robotics", "Research", "Psychology"]
 
-    - Employer: Private Tutoring
-      Place: Melbourne, Australia
-      Positions:
-          - Title: High School Mathematics Tutor
-            Date: 2019 - 2022
-            Details:
-                - Teaching mathematics from Year 9 through to VCE Specialist Mathematics
-                - Structuring content focussed developing intuition, understanding and practical applications
-                - Managing a small business; maintaining professional image, communications and standards
-            Badges: ["Mathematics", "Teaching", "Business Management"]
+    # - Employer: Private Tutoring
+    #   Place: Melbourne, Australia
+    #   Positions:
+    #       - Title: High School Mathematics Tutor
+    #         Date: 2019 - 2022
+    #         Details:
+    #             - Teaching mathematics from Year 9 through to VCE Specialist Mathematics
+    #             - Structuring content focussed developing intuition, understanding and practical applications
+    #             - Managing a small business; maintaining professional image, communications and standards
+    #         Badges: ["Mathematics", "Teaching", "Business Management"]
 
     - Employer: Monash Motorsport
       Place: Monash University
@@ -108,16 +109,15 @@ Experience:
             Date: Apr 2020 - Jul 2021
             Details:
                 - Development of an autonomous electric racing vehicle for Formula Student Competitions
-                - Designing, manufacturing and testing a high voltage distribution system to deliver power throughout the car
-                - Testing, calibrating and tuning an inverter to control a permanent magnet synchronous motor
+                - Designing, manufacturing and testing a system to deliver high voltage power throughout the car; testing and calibrating an inverter to control a permanent magnet synchronous motor
                 - Working in a team of over 100 people; co-ordinating work with other part designers and ensuring smooth integration with other parts
             Badges: ["Electrical Engineering", "Automotives", "Manufacturing", "Siemens NX", "Teamwork & Integration"]
           - Title: Senior Advisor
             Date: Mar 2021 - Jun 2021
             Details:
                 - Advisor to new recruits; organising and running activities for the recruits
-                - Teaching various skills, ranging from hands on manufacturing skills to Solidworks to electrical theory
-                - Managing and marking Junior Projects for the recruits' design subject as part of their university course
+                - Teaching various skills, ranging from manufacturing skills to Solidworks to electrical theory
+                - Managing and marking Junior Projects for the recruits' university design subject
             Badges: ["Teaching", "Electrical Engineering", "Solidworks"]
 
     # - Employer: Project Everest Ventures
@@ -173,8 +173,8 @@ Experience:
 
 Education:
     - Course: Bachelor of Engineering (Hons.) and Bachelor of Science
-      Place: Monash University
-      Date: 2018 - 2024
+      Place: Monash University | 2018 - 2024
+      # Date: 2018 - 2024
       Details: Specialised in Mechatronics Engineering <br/>
           Majors in Mathematics and Computational Science <br/>
           <br/>
@@ -196,16 +196,16 @@ Education:
     #     <br/>
 
     - Course: Monash Industry Skills
-      Place: Chisholm Institute
-      Date: 2021
+      Place: Chisholm Institute | 2021
+      # Date: 2021
       Details:
-          A tailored course for Monash University teams to develop engineering workshop proficiencies. Content covered included various hand tools, drills, lathes, and milling machines.  <br/>
+      #     A tailored course for Monash University teams to develop engineering workshop proficiencies. Content covered included various hand tools, drills, lathes, and milling machines.  <br/>
           <br/>
 
     - Course: Certificate III in Laboratory Skills (MSL30109)
-      Place: Box Hill Institute
-      Date: 2015-2016
-      Details: Learnt how to work with various laboratory equipment including autoclaves, sample media and microscopes. A focus was placed on safety and practical skills for a laboratory technician.
+      Place: Box Hill Institute | 2015 - 2016
+      # Date: 2015-2016
+      # Details: Learnt how to work with various laboratory equipment including autoclaves, sample media and microscopes. A focus was placed on safety and practical skills for a laboratory technician.
 
 # References:
 #   - Person: Kevin Lee
