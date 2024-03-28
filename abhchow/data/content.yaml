@@ -15,10 +15,6 @@ BasicInfo:
         - Icon: fas fa-map-marker-alt
           Info: Melbourne, Australia
 
-# Profile: As a student with a passion for learning and innovation, Albert is always keen to work with diverse people and projects to broaden his experiences. He draws on a wide range of knowledge to demonstrate a strong understanding of integrated multi-disciplinary systems, and loves teaching people and collaborating with them to help develop creative solutions and build each other's understanding.
-
-# Profile: My passion for education and innovation drives me to work with diverse people and projects to help them achieve their full potential. I draw on a wide range of knowledge to demonstrate a strong understanding of integrated multi-disciplinary systems. My enthusiasm for teaching complements my constant drive to learn, and I'm always ready to collaborate with others to develop creative solutions.
-
 Profile: My passion for innovation and technology drives me to seek out situations where I'm constantly learning. Whether that's a new language, framework or hardware, or a new environment with different people and projects, I'm always up for a challenge. I have a keen interest in both programming and engineering, and love opportunities to use them to build practical systems.
 Experience:
     - Employer: Atlassian
@@ -30,52 +26,14 @@ Experience:
                 - Developed a Python service for the backend Analytics Platform that runs on Kubernetes
                 - Built a service to replicate metadata from Atlassian's internal datalake to a data streaming service for use in a data discovery service
                 - Produced documentation for the development and usage of the service
-                - Achieved fluency in foundational software skills such as CLI and Git
-            Badges: ["Python", "Kubernetes", "Software Development", "Git", "CLI"]
+            Badges: ["Python", "Kubernetes", "Software Development", "Teamwork & Integration"]
 
     - Employer: Monash University
       Place: Melbourne, Australia
       Positions:
-          # - Title: Teaching Associate - Faculty of Engineering
-          #   Date: July 2021 - Present
-          #   Details:
-          #       - >
-          #           Demonstrator for Engineering Numerical Analysis (ENG1014), Computing for Engineers (ENG1060), and Engineering Design: Cleaner, Safer, Smarter (ENG1002)
-          #       - Programming in Matlab, numerical methods, dynamics, circuit analysis and project design
-          #       - Supporting students in completing labs on programming and numerical methods problems
-          #       - Marking code, conducting programming interviews for individual assignments
-          #       - Presenting worked examples to groups of over 200 students in lectures
-          #       - Developing content for a new unit in the form of notes and videos
-          #       - Mentoring new Teaching Associates
-          #       - Managing and marking students' group projects designing wastewater treatment plants and LED lamps
-          #       # - Managing group projects in Chemical and Electrical Engineering (ENG1002)
-          #       # - Matlab; vector and matrix operations, control structures, functions (ENG1060/1014)
-          #       # - Dynamics; kinematics, kinetics, energy methods, momentum (ENG1014)
-          #       # - Numerical methods; root finding, curve fitting, optimisation, integration, ODEs, linear algebra (ENG1060/1014)
-          #       # - Managing teams of students over group projects designing wastewater treatment plants and LED lamps
-          #       # - Programming fundamentals and numerical solutions; linear algebra, root finding, curve fitting, differentiation, optimisation, integration, ODEs
-          #       # - Material balance, unit operations, semiconductor theory, Kirchoff's Laws, circuit analysis
-          #   Badges: ["Matlab", "Mechanical Engineering", "Electrical Engineering", "Mathematics", "Teaching"]
-          # - Title: Teaching Associate - Faculty of Information Technology
-          #   Date: July 2021 - Present
-          #   Details:
-          #       - Tutor for Algorithms and Programming Fundamentals in Python (FIT1045) and Introduction to Computer Science/Advanced/for Engineers (FIT1008/1054/2085)
-          #       # - Programming in Python #; variables, control structures, functions, scoping, namespaces, modules/libraries, OOP, mutability, iterators, nested functions
-          #       # - Algorithms and data structures #; recursion, ADTs, hash tables, tree structures
-          #       # - MIPS assembly #; loops, arrays and functions
-          #       - Programming in Python, algorithms, data structures, MIPS assembly
-          #       - Assisting classes of 10-50 students in completing programming tasks
-          #       - Presenting and explaining the theory of different algorithms and data structures, and their applications and implementation details
-          #       - Conducting programming interviews for both individual and group assignments
-          #   Badges: ["Python", "MIPS", "Programming", "Algorithms", "Computer Science", "Teaching"]
-
           - Title: Teaching Associate
             Date: July 2021 - Present
             Details:
-                # - >
-                #     Tutor for Engineering Numerical Analysis (ENG1014), Computing for Engineers (ENG1060), Engineering Design: Cleaner, Safer, Smarter (ENG1002), Algorithms and Programming Fundamentals in Python (FIT1045) and Introduction to Computer Science (FIT1008)
-                # - Tutor for subjects on Numerical Analysis, Engineering Design, Programming and Algorithms
-                # - Programming in Matlab and Python, algorithms & data structures, MIPS assembly, numerical methods, dynamics, circuit analysis and project design
                 - Tutoring subjects on Numerical Analysis, Engineering Design and Programming; Matlab, Python, MIPS, algorithms & data structures, numerical methods, dynamics, circuits and project design
                 - Teaching tutorials, labs, and lectures in class sizes up to 200, including presenting worked examples and assisting students programming, analysis and design tasks
                 - Conducting code interviews and marking reports for individual and group assignments
@@ -90,17 +48,6 @@ Experience:
                 - Studying trust development and repair between humans and robots in collaborative tasks
                 # - Running experiments with participants and analysing experimental data
             Badges: ["Python", "ROS", "Robotics", "Research", "Psychology"]
-
-    # - Employer: Private Tutoring
-    #   Place: Melbourne, Australia
-    #   Positions:
-    #       - Title: High School Mathematics Tutor
-    #         Date: 2019 - 2022
-    #         Details:
-    #             - Teaching mathematics from Year 9 through to VCE Specialist Mathematics
-    #             - Structuring content focussed developing intuition, understanding and practical applications
-    #             - Managing a small business; maintaining professional image, communications and standards
-    #         Badges: ["Mathematics", "Teaching", "Business Management"]
 
     - Employer: Monash Motorsport
       Place: Monash University
@@ -119,6 +66,17 @@ Experience:
                 - Teaching various skills, ranging from manufacturing skills to Solidworks to electrical theory
                 - Managing and marking Junior Projects for the recruits' university design subject
             Badges: ["Teaching", "Electrical Engineering", "Solidworks"]
+
+    # - Employer: Private Tutoring
+    #   Place: Melbourne, Australia
+    #   Positions:
+    #       - Title: High School Mathematics Tutor
+    #         Date: 2019 - 2022
+    #         Details:
+    #             - Teaching mathematics from Year 9 through to VCE Specialist Mathematics
+    #             - Structuring content focussed developing intuition, understanding and practical applications
+    #             - Managing a small business; maintaining professional image, communications and standards
+    #         Badges: ["Mathematics", "Teaching", "Business Management"]
 
     # - Employer: Project Everest Ventures
     #   Place: Dili, Timor-Leste
@@ -179,22 +137,6 @@ Education:
           Majors in Mathematics and Computational Science <br/>
           <br/>
 
-    # - Course: Bachelor of Engineering (Honours)
-    #   Place: Monash University
-    #   Date: 2018 - 2024
-    #   Details:
-    #     Major in Mechatronics Engineering <br/>
-    #     <br/>
-    #     #Learning fundamentals in mechanical, electrical and computer systems and learning how to integrate them.
-
-    # - Course: Bachelor of Science
-    #   Place: Monash University
-    #   Date: 2018 - 2022
-    #   Details:
-    #     Major in Computational Science <br/>
-    #     Major in Mathematics <br/>
-    #     <br/>
-
     - Course: Monash Industry Skills
       Place: Chisholm Institute | 2021
       # Date: 2021
@@ -210,7 +152,7 @@ Education:
 # References:
 #   - Person: Kevin Lee
 #     Workplace: Monash Motorsport
-#     Position: Electrical Systems Manager
+#     Position: Chief Technical Officer
 #     Contact: >
 #       Phone: 0415 849 726 <br/>
 #       Email: kevin.lee@monashmotorsport.com <br/>
@@ -218,7 +160,7 @@ Education:
 
 #   - Person: Kelvin Chan
 #     Workplace: Monash Motorsport
-#     Position: Autonomous Systems Manager (2019), Head of Electrical Systems (2020)
+#     Position: Head of Electrical Systems
 #     Contact: >
 #       Phone: 0466 098 334 <br/>
 #       Email: kelvin.chan@monashmotorsport.com <br/>
@@ -248,7 +190,9 @@ Skills:
           - Javascript
           - Typescript
           - MIPS
-          - Mathematica
+          - Git
+          - CLI
+          # - Mathematica
           # - ROS
           # - Haskell
           # - HTML
