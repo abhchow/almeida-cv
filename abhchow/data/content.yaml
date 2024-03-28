@@ -15,7 +15,7 @@ BasicInfo:
         - Icon: fas fa-map-marker-alt
           Info: Melbourne, Australia
 
-Profile: My passion for innovation and technology drives me to seek out situations where I'm constantly learning. Whether that's a new language, framework or hardware, or a new environment with different people and projects, I'm always up for a challenge. I have a keen interest in both programming and engineering, and love opportunities to use them to build practical systems.
+Profile: My passion for innovation and technology drives me to seek situations where I'm constantly learning. Whether that's a new language, framework or hardware, or a new environment with different people, I'm always up for a challenge. I love opportunities to use my skills in programming and engineering to build practical systems.
 Experience:
     - Employer: Atlassian
       Place: Sydney, Australia
@@ -23,15 +23,21 @@ Experience:
           - Title: Software Development Intern
             Date: Nov 2023 - Feb 2024
             Details:
-                - Developed a Python service for the backend Analytics Platform that runs on Kubernetes
-                - Built a service to replicate metadata from Atlassian's internal datalake to a data streaming service for use in a data discovery service
-                - Produced documentation for the development and usage of the service
+                - Developed a service that runs on Python/Kubernetes to integrate the backend Analytics Platform with data discovery
+                - Built a service to replicate metadata from Atlassian's internal datalake to a data streaming service 
+                - Produced documentation for the development and usage of the service and integration
                 # - Achieved fluency in foundational software skills such as Git and CLI
-            Badges: ["Python", "Kubernetes", "Software Development", "Teamwork & Integration"]
+            Badges: ["Python", "Kubernetes", "Software Development", "Teamwork", "Integration", "Documentation"]
 
     - Employer: Monash University
       Place: Melbourne, Australia
       Positions:
+          # - Title: Bachelor of Engineering (Hons.) and Bachelor of Science
+          #   Date: 2018 - 2024
+          #   Details:
+          #       - Specialised in Mechatronics Engineering
+          #       - Majors in Mathematics & Computational Science
+
           - Title: Teaching Associate
             Date: July 2021 - Present
             Details:
@@ -58,8 +64,8 @@ Experience:
             Details:
                 - Development of an autonomous electric racing vehicle for Formula Student Competitions
                 - Designed, manufactured and tested a system to deliver high voltage power throughout the car; tested and calibrated an inverter to control a permanent magnet synchronous motor
-                - Worked in a team of over 100 people; co-ordinating work with other part designers and ensuring smooth integration with other parts
-            Badges: ["Electrical Engineering", "Automotives", "Manufacturing", "Siemens NX", "Teamwork & Integration"]
+                - Co-ordinated work in a team of over 100 people to ensure smooth integration with other parts
+            Badges: ["Electrical Engineering", "Automotives", "Manufacturing", "Siemens NX", "Teamwork", "Integration"]
           - Title: Senior Advisor
             Date: Mar 2021 - Jun 2021
             Details:
@@ -130,25 +136,25 @@ Experience:
     #         - Learnt to develop, maintain and manage interpersonal relations with managers, colleagues and customers
     #       Badges: ['Sales', 'Retail', 'Interpersonal Skills']
 
-Education:
-    - Course: Bachelor of Engineering (Hons.) and Bachelor of Science
-      Place: Monash University | 2018 - 2024
-      # Date: 2018 - 2024
-      Details: Specialised in Mechatronics Engineering <br/>
-          Majors in Mathematics and Computational Science <br/>
-          <br/>
+# Education:
+#     - Course: Bachelor of Engineering (Hons.) and Bachelor of Science
+#       Place: Monash University | 2018 - 2024
+#       # Date: 2018 - 2024
+#       Details: Specialised in Mechatronics Engineering <br/>
+#           Majors in Mathematics and Computational Science <br/>
+#           <br/>
 
-    - Course: Monash Industry Skills
-      Place: Chisholm Institute | 2021
-      # Date: 2021
-      Details:
-      #     A tailored course for Monash University teams to develop engineering workshop proficiencies. Content covered included various hand tools, drills, lathes, and milling machines.  <br/>
-          <br/>
+    # - Course: Monash Industry Skills
+    #   Place: Chisholm Institute | 2021
+    #   # Date: 2021
+    #   Details:
+    #   #     A tailored course for Monash University teams to develop engineering workshop proficiencies. Content covered included various hand tools, drills, lathes, and milling machines.  <br/>
+    #       <br/>
 
-    - Course: Certificate III in Laboratory Skills (MSL30109)
-      Place: Box Hill Institute | 2015 - 2016
-      # Date: 2015-2016
-      # Details: Learnt how to work with various laboratory equipment including autoclaves, sample media and microscopes. A focus was placed on safety and practical skills for a laboratory technician.
+    # - Course: Certificate III in Laboratory Skills (MSL30109)
+    #   Place: Box Hill Institute | 2015 - 2016
+    #   # Date: 2015-2016
+    #   # Details: Learnt how to work with various laboratory equipment including autoclaves, sample media and microscopes. A focus was placed on safety and practical skills for a laboratory technician.
 
 # References:
 #   - Person: Kevin Lee
@@ -182,15 +188,27 @@ Education:
 #       Phone: 0428 281 994 <br/>
 #       Email: jordy.mcmillan@gmail.com <br/>
 
+Edu:
+    - Family: Bachelor of Engineering (Hons) and Bachelor of Science
+      Items:
+          - Monash University
+          - 2018 - 2024
+          - • Mechatronics Engineering Specialisation
+          - • Computational Science Major
+          - • Mathematics Major
+    - Family: Certificate III in Laboratory Skills (MSL30109)
+      Items:
+          - Box Hill Institute (2015 - 2016)
+
 Skills:
     - Family: Programming & Coding
       Items:
           - Python
           - MATLAB
-          - C
           - Javascript
           - Typescript
           - MIPS
+          - C
           - Git
           - CLI
           # - Mathematica
@@ -211,13 +229,14 @@ Skills:
     - Family: Soft Skills
       Items:
           - Teaching
-          - Business Management
-          - Teamwork & Integration
-    - Family: Miscellaneous
-      Items:
-          - Adobe Suite
-          - REAPER Audio
-          - OBS Studio
+          - Teamwork
+          - Integration
+          - Documentation
+    # - Family: Miscellaneous
+    #   Items:
+    #       - Adobe Suite
+    #       - REAPER Audio
+    #       - OBS Studio
 
 # Languages:
 #   - Name: English
@@ -229,7 +248,6 @@ Certifications:
     - • Monash Industry Skills | Chisholm Institute (2021)
     - • Certified Solidworks Associate (CSWA) (2020)
     - • Working With Children Check (2020)
-    - • Certificate III in Laboratory Skills (MSL30109) | Box Hill Institute (2015 - 2016)
 
 Interests:
     - Beatboxing
