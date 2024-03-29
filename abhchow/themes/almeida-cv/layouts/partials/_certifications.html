@@ -4,10 +4,18 @@
         <h2 class="sideSection__title">{{ i18n "certifications" }}</h2>
     </div>
     <div class="sideSection__content">
-        <ul>
-            {{ range .Certifications }}
-            <li>{{ . | safeHTML }}</li>
-            {{ end }}
+        <ul class="certifications">
+            <li>
+                {{ range .Certifications }}
+                <ul class="certifications__group">
+                    <span>{{ .Family | safeHTML }}</span>
+                    <br>
+                    {{ range .Items }}
+                    <li>{{ . | safeHTML }}</li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </li>
         </ul>
     </div>
 </div>

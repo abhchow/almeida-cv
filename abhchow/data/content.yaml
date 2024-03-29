@@ -191,14 +191,13 @@ Experience:
 Edu:
     - Family: Bachelor of Engineering (Hons) and Bachelor of Science
       Items:
-          - Monash University
-          - 2018 - 2024
-          - • Mechatronics Engineering Specialisation
-          - • Computational Science Major
-          - • Mathematics Major
+          - Monash University | 2018 - 2024
+          - Mechatronics Engineering Specialisation
+          - Computational Science Major
+          - Mathematics Major
     - Family: Certificate III in Laboratory Skills (MSL30109)
       Items:
-          - Box Hill Institute (2015 - 2016)
+          - Box Hill Institute | 2015 - 2016
 
 Skills:
     - Family: Programming & Coding
@@ -245,9 +244,15 @@ Skills:
 #     Level: Basic
 
 Certifications:
-    - • Monash Industry Skills | Chisholm Institute (2021)
-    - • Certified Solidworks Associate (CSWA) (2020)
-    - • Working With Children Check (2020)
+  - Family: Monash Industry Skills
+    Items:
+    - Chisholm Institute | 2021
+  - Family: Certified Solidworks Associate (Mechanical Design)
+    Items:
+    - Dassault Systèmes | 2020
+  - Family: Working With Children Check
+    Items:
+    - Victorian State Government | 2020
 
 Interests:
     - Beatboxing
