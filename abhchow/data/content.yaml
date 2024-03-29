@@ -9,7 +9,7 @@ BasicInfo:
         - Icon: fas fa-phone
           Info: 0468 841 302
         - Icon: fas fa-envelope
-          Info: abhchow@gmail.com
+          Info: <a class="contact__link" href="abhchow@gmail.com" target="_blank">abhchow@gmail.com</a>
         - Icon: fas fa-globe
           Info: <a class="contact__link" href="https://www.linkedin.com/in/abhchow/" target="_blank">linkedin.com/in/abhchow</a>
         - Icon: fas fa-map-marker-alt
@@ -23,9 +23,9 @@ Experience:
           - Title: Software Development Intern
             Date: Nov 2023 - Feb 2024
             Details:
-                - Developed a service that runs on Python/Kubernetes to integrate the backend Analytics Platform with data discovery
-                - Built a service to replicate metadata from Atlassian's internal datalake to a data streaming service 
-                - Produced documentation for the development and usage of the service and integration
+                - Developed a service that runs on Python/Kubernetes to integrate the backend Analytics Platform with the Data Discovery Platform
+                - Built a service to replicate metadata from Atlassian's internal datalake to a data streaming service for use in various other services
+                - Produced documentation for the development and usage of the service
                 # - Achieved fluency in foundational software skills such as Git and CLI
             Badges: ["Python", "Kubernetes", "Software Development", "Teamwork", "Integration", "Documentation"]
 
